@@ -1,0 +1,39 @@
+[33mcommit c8ed8c1101e6148cf9773c7f2ab6742e9d728a4c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: sally <sallychoi0105@gmail.com>
+Date:   Fri Aug 2 16:37:04 2024 +0900
+
+    "보아라"
+    This is it.
+
+[33mcommit 3fcc0387c7bb8d939799468a688555403ed57c19[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 0ee6ea6 243dc61
+Author: sally <sallychoi0105@gmail.com>
+Date:   Fri Aug 2 15:42:34 2024 +0900
+
+    Merge branch 'main' of https://github.com/sallytheking/math_Box
+
+[33mcommit 0ee6ea646d61063f4cedc375897b03385fb3b5d9[m
+Author: sallytheking <150634339+sallytheking@users.noreply.github.com>
+Date:   Thu Aug 1 15:07:27 2024 +0900
+
+    Add multiply function
+    
+    hoot.py supports 3 functions now
+
+[33mcommit 243dc611721fff96a7b9ea38344f09b4e5010589[m
+Author: sallytheking <150634339+sallytheking@users.noreply.github.com>
+Date:   Thu Aug 1 15:07:27 2024 +0900
+
+    Create README.md
+
+[33mcommit 8665beaf7552660b7aac16d1d1d43c4dd8ba04bf[m
+Author: sally <sallychoi0105@gmail.com>
+Date:   Thu Aug 1 13:41:10 2024 +0900
+
+    Create hoot.py and free.txt
+
+[33mcommit da4138fd88c902601b1d27d8c5c6687c4c227ccf[m
+Author: sally <sallychoi0105@gmail.com>
+Date:   Thu Aug 1 11:28:13 2024 +0900
+
+    create hoot.py and free.txt
